@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning responsive websites and JavaScript
 
-- 😄 Pronouns:she/her
+- 😄 Pronouns: She/her
 
 
 ![carolms23's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolms23&hide=prs,stars&show_icons=true&theme=dracula)
