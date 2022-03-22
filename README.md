@@ -3,13 +3,6 @@
 <content type="html" > <p> <a href="https://octodex.github.com/pusheencat/"> <img width="100px"src="https://octodex.github.com/images/pusheencat.png"/></a> </p> </content>
 </entry>
 
-- 🔭 I’m currently working on Front-End develop
-
-- 🌱 I’m currently learning responsive websites and JavaScript
-
-- 😄 Pronouns: She/her
-
-
 ![carolms23's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolms23&hide=prs,stars&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolms23&layout=compact&theme=dracula)](https://github.com/carolms23/github-readme-stats)
 
@@ -24,6 +17,13 @@
   <img align="left" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="left" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div><br>
+
+
+- 🔭 I’m currently working on Front-End develop
+
+- 🌱 I’m currently learning responsive websites and JavaScript
+
+- 😄 Pronouns: She/her
   
 
 
