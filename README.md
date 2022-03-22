@@ -18,6 +18,7 @@
   <img align="left" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div><br>
 
+#### Atualmente
 
 - 🔭 I’m currently working on Front-End develop
 
