@@ -20,7 +20,7 @@
 
 #### Atualmente
 
-- 🔭 I’m currently working on Front-End develop
+- 🔭 I’m currently working on Front-End development
 
 - 🌱 I’m currently learning responsive websites and JavaScript
 
