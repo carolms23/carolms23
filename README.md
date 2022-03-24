@@ -16,9 +16,11 @@
   <img align="left" alt="github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="left" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="left" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</div><br>
+</div>
+<br>
+<br><br>
 
-#### Atualmente
+### Atualmente
 
 - 🔭 I’m currently working on Front-End development
 
