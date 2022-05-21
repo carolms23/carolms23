@@ -20,11 +20,11 @@
 <br>
 <br><br>
 
-### Atualmente
+### Atualmente (At the moment)
 
-- 🔭 I’m currently working on Front-End development
+- 🔭 I’m currently working as a Software Developer Intern at Ericsson
 
-- 🌱 I’m currently learning responsive websites and JavaScript
+- 🌱 I’m currently learning .NET ecosystem
 
 - 😄 Pronouns: She/her
   
