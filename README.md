@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working as a Software Developer Intern at Ericsson
 
-- 🌱 I’m currently learning .NET ecosystem
+- 🌱 I’m currently learning basic Full-Stack development;
 
 - 😄 Pronouns: She/her
   
