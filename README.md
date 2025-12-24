@@ -3,7 +3,7 @@
 <content type="html" > <p> <a href="https://octodex.github.com/pusheencat/"> <img width="100px"src="https://octodex.github.com/images/pusheencat.png"/></a> </p> </content>
 </entry>
 
-![carolms23's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolms23&hide=prs,stars&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolms23&layout=compact&theme=dracula)](https://github.com/carolms23/github-readme-stats)
 
 #### Linguagens e Ferramentas (Languages and Tools)
