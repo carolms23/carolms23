@@ -22,9 +22,9 @@
 
 ### Atualmente (At the moment)
 
-- 🔭 I’m currently working as a Software Developer Intern at Ericsson
+- 🔭 I’m currently working as a Software Engineer at @iFood
 
-- 🌱 I’m currently learning basic Full-Stack development;
+- 🌱 I’m currently learning basic llms and AI features;
 
 - 😄 Pronouns: She/her
   
